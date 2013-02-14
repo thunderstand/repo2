@@ -1,2 +1,1 @@
-repo2
-=====
+acesta este un readme
